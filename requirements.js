@@ -6,7 +6,7 @@ You can display a quote from a famous athlete, politician, or historical figure.
 
 Meets Expectations
 
-1. Create Array of Objects = DONE
+1. Create Array of Objects - DONE
     Array of objects is named quotes
     Array contains at least 5 quote objects
     
@@ -29,6 +29,10 @@ Meets Expectations
     Comments are included in the code.
     
     
+Extra credit 
+
+When the quote changes, randomly change the background color of the page.
+
 
 
 */
